@@ -24,7 +24,7 @@
 }
 
 * {
-    box-sizing: auto;
+    box-sizing: border-box;
 }
 
 html {
