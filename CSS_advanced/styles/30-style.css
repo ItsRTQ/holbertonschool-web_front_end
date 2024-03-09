@@ -495,7 +495,7 @@
     padding-top: 45%;
   }
 
-  .card-title:link::after , .card-work:link::after {
+  .card-work .card-title a::after {
     position: absolute;
     top: 0;
     right: 0;
@@ -504,5 +504,5 @@
     content: "";
   }
   .card-work:hover .card-title {
-    opacity: 0;
+    opacity: 1;
   }
