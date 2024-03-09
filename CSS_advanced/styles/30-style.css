@@ -489,7 +489,7 @@
     position: relative;
   }
 
-  .card-title:link, .card-work:link {
+  .card-work .card-title a {
     display: block;
     text-decoration: none;
     padding-top: 45%;
