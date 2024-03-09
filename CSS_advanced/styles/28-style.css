@@ -83,6 +83,7 @@
 
   .header-logo:link {
     display: var(--header-logo-link-display);
+    position: var(--header-logo-position);
     vertical-align: var(--header-logo-link-top);
     text-align: var(--header-logo-link-left);
   }
