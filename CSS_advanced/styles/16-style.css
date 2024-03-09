@@ -91,7 +91,8 @@
 
   .container {
     width: 960px;
-    margin: 480px 480px;
+    margin-left: 480px;
+    margin-right: 480px;
   }
   
   h1, h2, h3, h4, h5, h6 {
