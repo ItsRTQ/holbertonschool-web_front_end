@@ -533,7 +533,7 @@
 }
 
   .card-work:hover .card-outer {
-
+    transform: scale(0.95);
   }
 
   .card-work .card-outer {
