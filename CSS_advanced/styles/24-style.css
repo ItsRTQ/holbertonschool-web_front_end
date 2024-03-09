@@ -353,7 +353,7 @@
     fill: var(--text-color);
   }
 
-  .card-services .card-title{
+  .card-title .card-services{
     margin: none;
   }
   
