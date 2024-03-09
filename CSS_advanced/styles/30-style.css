@@ -466,7 +466,7 @@
     height: 30rem;
     width: 100%;
     object-fit: cover;
-    top: bottom;
+    vertical-align: bottom;
   }
 
   .card-work .card-inner {
