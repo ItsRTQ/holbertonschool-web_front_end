@@ -532,6 +532,10 @@
     transform: scale(1.2);
 }
 
+  .card-work:hover .card-outer {
+
+  }
+
   .card-work .card-outer {
     transform: scale(0.95);
   }
