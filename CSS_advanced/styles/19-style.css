@@ -297,7 +297,7 @@
     color: var(--nav-item-link-hover);
   }
 
-  ul .row {
+  ul.row {
     margin: 0;
     padding: none;
     list-style: none;
