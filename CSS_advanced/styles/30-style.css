@@ -457,8 +457,8 @@
     color: var(--color-primary);
   }
 
-  .card-outer .card-work {
-    position: auto;
+  .card-work .card-outer {
+    position: relative;
     overflow: hidden;
   }
 
