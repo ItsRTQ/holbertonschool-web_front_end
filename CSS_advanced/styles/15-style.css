@@ -23,7 +23,7 @@
     --section-title-color: var(--color-black)
 }
 
-* {
+*.box-sizing {
     box-sizing: border-box;
 }
 
